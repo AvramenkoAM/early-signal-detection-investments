@@ -1,0 +1,17 @@
+keyword,frequency,moving_avg,growth_rate,z_score,score,is_anomaly
+automation,1.0,1.0,,-0.66,0.0,False
+autonomous,1.0,1.0,,-0.66,0.0,False
+bitcoin,4.0,4.0,,1.21,0.0,False
+computer vision,1.0,1.0,,-0.66,0.0,False
+crypto,1.0,1.0,,-0.66,0.0,False
+drug discovery,1.0,1.0,,-0.66,0.0,False
+electric vehicles,2.0,2.0,,-0.04,0.0,False
+ipo,3.0,3.0,,0.59,0.0,False
+llm,3.0,3.0,,0.59,0.0,False
+nuclear fusion,1.0,1.0,,-0.66,0.0,False
+rag,5.0,5.0,,1.84,0.0,True
+robotics,1.0,1.0,,-0.66,0.0,False
+semiconductor,1.0,1.0,,-0.66,0.0,False
+startup,6.0,6.0,,2.46,0.0,True
+supply chain,1.0,1.0,,-0.66,0.0,False
+weight loss drug,1.0,1.0,,-0.66,0.0,False

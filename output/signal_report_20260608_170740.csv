@@ -1,0 +1,7 @@
+keyword,frequency,moving_avg,growth_rate,z_score,score,is_anomaly
+venture capital,1.0,2.25,-40.0,-1.98,-27.73,False
+bitcoin,38.0,34.75,-7.95,-0.62,-29.11,False
+longevity,2.0,2.5,-37.5,-0.99,-41.2,False
+creator economy,17.0,29.0,-47.51,-0.85,-137.33,False
+weight loss drug,0.0,0.0,,-0.2,,False
+reshoring,0.0,0.0,,0.0,,False

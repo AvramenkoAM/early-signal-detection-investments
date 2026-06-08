@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 .DS_Store
-data/
-output/
 .env
+
+# SQLite runtime files
+output/*.db
+output/*.db-shm
+output/*.db-wal
+
+# User-specific watchlist
+output/watchlist.json

@@ -1,0 +1,5 @@
+keyword,frequency,moving_avg,growth_rate,z_score,score,is_anomaly
+computer vision,6.0,8.25,-45.0,-0.36,-87.57,False
+ai agents,13.0,22.0,-43.95,-0.56,-115.98,False
+robotics,24.0,34.0,-37.04,-1.03,-119.22,False
+llm,45.0,60.5,-34.59,-0.61,-132.45,False

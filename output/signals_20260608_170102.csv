@@ -1,0 +1,24 @@
+keyword,source,frequency,timestamp,sentiment
+startup,rss_techcrunch,4,2026-06-08T14:01:02.599732+00:00,-0.2407
+llm,github_trending,3,2026-06-08T14:01:02.585147+00:00,0.3185
+bitcoin,rss_yahoo_finance,3,2026-06-08T14:01:02.670497+00:00,-0.0911
+rag,rss_yahoo_finance,3,2026-06-08T14:01:02.670497+00:00,0.1329
+ipo,rss_yahoo_finance,2,2026-06-08T14:01:02.670497+00:00,0.0114
+rag,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,-0.8765
+supply chain,rss_hackernews,1,2026-06-08T14:01:02.610345+00:00,0.34
+startup,rss_entrepreneur,1,2026-06-08T14:01:02.684209+00:00,0.7579
+startup,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,0.4939
+semiconductor,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,-0.7096
+robotics,rss_hackernews,1,2026-06-08T14:01:02.610345+00:00,0.0
+rag,rss_mit_tech_review,1,2026-06-08T14:01:02.629260+00:00,0.0
+automation,rss_hackernews,1,2026-06-08T14:01:02.610345+00:00,0.0
+nuclear fusion,rss_nature,1,2026-06-08T14:01:02.689173+00:00,0.0
+autonomous,rss_the_verge,1,2026-06-08T14:01:02.624381+00:00,0.8344
+ipo,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,0.0258
+electric vehicles,rss_nature,1,2026-06-08T14:01:02.689173+00:00,-0.25
+electric vehicles,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,0.0
+drug discovery,rss_techcrunch,1,2026-06-08T14:01:02.599732+00:00,0.4927
+crypto,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,-0.5267
+computer vision,github_trending,1,2026-06-08T14:01:02.585147+00:00,0.7351
+bitcoin,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,-0.5267
+weight loss drug,rss_cnbc,1,2026-06-08T14:01:02.634263+00:00,0.5106
