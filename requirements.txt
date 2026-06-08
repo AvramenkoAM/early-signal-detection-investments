@@ -1,21 +1,12 @@
-# ── Core pipeline ─────────────────────────────────────────────────────────────
-pytrends>=4.9.2            # Google Trends unofficial API
-pandas>=2.0                # data manipulation
-numpy>=1.24                # numerical operations
-requests>=2.31             # HTTP client for GitHub and RSS
-beautifulsoup4>=4.12       # HTML/XML parser for GitHub and RSS
-urllib3<2                  # pytrends uses Retry(method_whitelist=...) removed in urllib3 v2
-
-# ── Dashboard ─────────────────────────────────────────────────────────────────
-streamlit>=1.35            # interactive dashboard
-altair>=5.0                # declarative charts
-
-# ── Sentiment analysis ────────────────────────────────────────────────────────
-vaderSentiment>=3.3.2      # offline VADER sentiment scoring (no model download)
-
-# ── Scheduler ─────────────────────────────────────────────────────────────────
-APScheduler>=3.10          # cron-based job scheduler
-
-# ── Optional: Reddit source ───────────────────────────────────────────────────
-# Uncomment when REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET are configured in .env
-# praw>=7.7                # Reddit API wrapper
+pytrends>=4.9.2
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+urllib3<2
+streamlit>=1.35
+altair>=5.0
+vaderSentiment>=3.3.2
+APScheduler>=3.10
+python-dotenv>=1.0
+tzdata>=2024.1

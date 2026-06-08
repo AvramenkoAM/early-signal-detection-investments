@@ -16,6 +16,13 @@ try:
 except ImportError:
     pass                            # dotenv is optional — env vars can be set in the shell
 
+try:
+    import streamlit as st          # on Streamlit Cloud, secrets live in st.secrets
+    for key, val in st.secrets.items():
+        os.environ.setdefault(key, str(val))  # push Streamlit secrets into env vars
+except Exception:
+    pass                            # not running inside Streamlit — skip silently
+
 # ── Paths ──────────────────────────────────────────────────────────────────────
 ROOT_DIR    = Path(__file__).parent # directory that contains this config file
 DATA_DIR    = ROOT_DIR / "data"     # raw scraped data landing zone
